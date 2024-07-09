@@ -1,0 +1,110 @@
+﻿@model Attendance_Application.Models.LoginTable
+
+@{
+    ViewBag.Title = "SignIn";
+    Layout = "~/Views/Shared/_LayoutNoNav.cshtml";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <!-- Login 9 - Bootstrap Brain Component -->
+    <section class="bg-primary py-3 py-md-5 py-xl-8" style="margin-top:15vh;border-radius:40px;">
+        <div class="container">
+            <div class="row gy-4 align-items-center">
+                <div class="col-12 col-md-6 col-xl-7">
+                    <div class="d-flex justify-content-center text-bg-primary">
+                        <div class="col-12 col-xl-9">
+                            <img class="img-fluid rounded mb-4" loading="lazy" src="~/Content/Images/user.png" width="150" height="50" style="align-items:center; margin-left:150px;">
+                            <hr class="border-primary-subtle mb-4">
+                            <h2 class="h1 mb-4">We make digital products that drive you to stand out.</h2>
+                            <p class="lead mb-5">The most important step towards success is showing up</p>
+                            <div class="text-endx">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-xl-5">
+                    <div class="card border-0 rounded-4">
+                        <div class="card-body p-3 p-md-4 p-xl-5">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="mb-4">
+                                        <h3>Sign in</h3>
+                                        <p>Don't have an account? @Html.ActionLink("Sign up", "Register", "Register", null,new {@style="text-decoration:none;"})</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row gy-3">
+                                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                <div class="col-12">
+                                    <div class="mb-3">
+                                        @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @name = "username", @id = "username", @placeholder = "Username" } })
+                                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="mb-3">
+                                        @Html.PasswordFor(model => model.Password, new { @class = "form-control", @name = "password", @id = "password", @value = "", @placeholder = "Password" })
+                                        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" value="" name="remember_me" id="remember_me">
+                                        <label class="form-check-label text-secondary" for="remember_me">
+                                            Keep me logged in
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="d-grid">
+                                        <button class="btn btn-primary btn-lg" type="submit">Sign in</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+<div class="modal fade" id="modalMessage" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+            <div class="modal-body" id="modalBody">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script type="text/javascript">
+    $(document).ready(function () {
+        var msg = '@ViewBag.UserRegSuccess';
+    if (msg != '' && msg.length > 0) {
+         $('#modalTitle').text('Offloaded Bags');
+        $('#modalBody').text(msg);
+        $('#modalMessage').modal('show');
+        setTimeout(function () { $('#modalMessage').modal('hide') }, 6000);
+    }
+
+    var $cDataEntryFields = $('.clsDEField');
+    $cDataEntryFields.change(function (e) {
+        $("#txtDataEntryFieldValueChanged").val(1);
+        return;
+    });
+});
+</script>
+}

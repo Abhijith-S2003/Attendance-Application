@@ -1,0 +1,79 @@
+D:\Studies\Attendance Application\bin\Attendance Application.dll.config
+D:\Studies\Attendance Application\bin\Attendance Application.dll
+D:\Studies\Attendance Application\bin\Attendance Application.pdb
+D:\Studies\Attendance Application\bin\roslyn\csc.exe
+D:\Studies\Attendance Application\bin\roslyn\csc.exe.config
+D:\Studies\Attendance Application\bin\roslyn\csc.rsp
+D:\Studies\Attendance Application\bin\roslyn\csi.exe
+D:\Studies\Attendance Application\bin\roslyn\csi.exe.config
+D:\Studies\Attendance Application\bin\roslyn\csi.rsp
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studies\Attendance Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Studies\Attendance Application\bin\roslyn\System.AppContext.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Console.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Globalization.Calendars.dll
+D:\Studies\Attendance Application\bin\roslyn\System.IO.Compression.dll
+D:\Studies\Attendance Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Studies\Attendance Application\bin\roslyn\System.IO.FileSystem.dll
+D:\Studies\Attendance Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Net.Http.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Net.Sockets.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Studies\Attendance Application\bin\roslyn\System.ValueTuple.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Xml.XPath.dll
+D:\Studies\Attendance Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studies\Attendance Application\bin\roslyn\vbc.exe
+D:\Studies\Attendance Application\bin\roslyn\vbc.exe.config
+D:\Studies\Attendance Application\bin\roslyn\vbc.rsp
+D:\Studies\Attendance Application\bin\roslyn\VBCSCompiler.exe
+D:\Studies\Attendance Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Studies\Attendance Application\bin\Antlr3.Runtime.dll
+D:\Studies\Attendance Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studies\Attendance Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Studies\Attendance Application\bin\Newtonsoft.Json.dll
+D:\Studies\Attendance Application\bin\System.Web.Helpers.dll
+D:\Studies\Attendance Application\bin\System.Web.Mvc.dll
+D:\Studies\Attendance Application\bin\System.Web.Optimization.dll
+D:\Studies\Attendance Application\bin\System.Web.Razor.dll
+D:\Studies\Attendance Application\bin\System.Web.WebPages.Deployment.dll
+D:\Studies\Attendance Application\bin\System.Web.WebPages.dll
+D:\Studies\Attendance Application\bin\System.Web.WebPages.Razor.dll
+D:\Studies\Attendance Application\bin\WebGrease.dll
+D:\Studies\Attendance Application\bin\System.Web.Helpers.xml
+D:\Studies\Attendance Application\bin\System.Web.Mvc.xml
+D:\Studies\Attendance Application\bin\System.Web.Optimization.xml
+D:\Studies\Attendance Application\bin\System.Web.Razor.xml
+D:\Studies\Attendance Application\bin\System.Web.WebPages.xml
+D:\Studies\Attendance Application\bin\System.Web.WebPages.Deployment.xml
+D:\Studies\Attendance Application\bin\System.Web.WebPages.Razor.xml
+D:\Studies\Attendance Application\bin\Newtonsoft.Json.xml
+D:\Studies\Attendance Application\bin\Antlr3.Runtime.pdb
+D:\Studies\Attendance Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studies\Attendance Application\obj\Debug\Attendance Application.csproj.AssemblyReference.cache
+D:\Studies\Attendance Application\obj\Debug\Attendance Application.csproj.CoreCompileInputs.cache
+D:\Studies\Attendance Application\obj\Debug\Attendan.0AB32085.Up2Date
+D:\Studies\Attendance Application\obj\Debug\Attendance Application.dll
+D:\Studies\Attendance Application\obj\Debug\Attendance Application.pdb

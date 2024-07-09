@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studies\\DBBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\views\\userattendance\\attendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606034DF-1E39-4278-9914-6C46954A18DF}|DBBackend.csproj|d:\\studies\\dbbackend\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606034DF-1E39-4278-9914-6C46954A18DF}|DBBackend.csproj|solutionrelative:controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\views\\shared\\_layoutnonav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\controllers\\userattendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DB3A71-FB69-4C52-B136-C0E4D403A23A}|..\\Attendance Application\\Attendance Application.csproj|d:\\studies\\attendance application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "..\\Attendance Application\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:22:20.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBController.cs",
+              "DocumentMoniker": "D:\\Studies\\DBBackend\\Controllers\\DBController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DBController.cs",
+              "ToolTip": "D:\\Studies\\DBBackend\\Controllers\\DBController.cs",
+              "RelativeToolTip": "Controllers\\DBController.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAqwFQBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:14:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutNoNav.cshtml",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Views\\Shared\\_LayoutNoNav.cshtml",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Views\\Shared\\_LayoutNoNav.cshtml",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Views\\Shared\\_LayoutNoNav.cshtml",
+              "RelativeToolTip": "..\\Attendance Application\\Views\\Shared\\_LayoutNoNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:18:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Attendance Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:18:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Studies\\Attendance Application\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "..\\Attendance Application\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:17:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Views\\Register\\Register.cshtml",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "..\\Attendance Application\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:16:24.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Web.config",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Web.config",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Web.config",
+              "RelativeToolTip": "..\\Attendance Application\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-09T13:15:33.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceModel.cs",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Models\\AttendanceModel.cs",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Models\\AttendanceModel.cs",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Models\\AttendanceModel.cs",
+              "RelativeToolTip": "..\\Attendance Application\\Models\\AttendanceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:02:38.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\Attendance Application\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:02:19.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendance.cshtml",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Views\\UserAttendance\\Attendance.cshtml",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Views\\UserAttendance\\Attendance.cshtml",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Views\\UserAttendance\\Attendance.cshtml",
+              "RelativeToolTip": "..\\Attendance Application\\Views\\UserAttendance\\Attendance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:58:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAttendanceController.cs",
+              "DocumentMoniker": "D:\\Studies\\Attendance Application\\Controllers\\UserAttendanceController.cs",
+              "RelativeDocumentMoniker": "..\\Attendance Application\\Controllers\\UserAttendanceController.cs",
+              "ToolTip": "D:\\Studies\\Attendance Application\\Controllers\\UserAttendanceController.cs",
+              "RelativeToolTip": "..\\Attendance Application\\Controllers\\UserAttendanceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:50:29.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Attendance_Application.Models.AttendanceModel>
+
+@{
+    ViewBag.Title = "Attendance";
+}
+@*<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Reg_Ref_ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LoginTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LogoutTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.THour)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reg_Ref_ID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LoginTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LogoutTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.THour)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>*@
+
+<section class="py-3 py-md-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-12 col-xl-12">
+                <div class="card-body p-4">
+                    <div class="table-responsive">
+                        <table class="table table-borderless table-hover bsb-table-xl text-nowrap align-middle m-0">
+                            <tbody>
+                                <tr>
+                                    <th style="font-size: 20px;">
+                                        @Html.DisplayNameFor(model => model.Reg_Ref_ID)
+                                    </th>
+                                    <th style="font-size: 20px;">
+                                        @Html.DisplayNameFor(model => model.LoginTime)
+                                    </th>
+                                    <th style="font-size: 20px;">
+                                        @Html.DisplayNameFor(model => model.LogoutTime)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.THour)
+                                    </th>
+                                </tr>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td style="font-size: 20px;">
+                                            @Html.DisplayFor(modelItem => item.Reg_Ref_ID)
+                                        </td>
+                                        <td style="font-size: 20px;">
+                                            @Html.DisplayFor(modelItem => item.LoginTime)
+                                        </td>
+                                        <td style="font-size: 20px;">
+                                            @Html.DisplayFor(modelItem => item.LogoutTime)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.THour)
+                                        </td>
+                                        <td style="font-size: 20px;">
+                                            <a href="@Url.Action("Edit", "User",new { id=item.ID })" title="Edit"><i class="bi bi-pen-fill text-primary"></i></a> 
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
